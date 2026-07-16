@@ -1,18 +1,21 @@
-# Climb Calendar — Privacy Policy
+# RISE — Privacy Policy
 
-**Effective date: July 9, 2026**
+**Effective date: July 15, 2026**
 
-Climb Calendar is a local-only daily planner. This policy is short
+RISE (listed on the App Store as **RISE: Journal and Planner**) is a
+local-only daily planner. This policy is short
 because the app is simple: **we do not collect, store, transmit, or
 sell any of your data. Ever.**
 
 ## What the app stores
 
-Everything you create in Climb Calendar — journal entries and
+Everything you create in RISE — journal entries and
 highlights, routines, tasks, goals, settings, and preferences — is
 stored only on your device. The app has no accounts, no sign-in, no
-analytics, no advertising, no third-party SDKs, and makes no network
-connections of its own.
+analytics, no advertising, and no third-party SDKs. The only network
+connections it makes are to Apple's own App Store (StoreKit) services,
+used solely to load, process, and verify the Rise subscription — none
+of your content is ever involved.
 
 ## Subscriptions
 
